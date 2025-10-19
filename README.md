@@ -82,5 +82,4 @@ You can control the robot manually using a phone or PC via a Bluetooth serial te
 ## LIVE DEMO
 https://www.linkedin.com/posts/tarush-bajpai_roboticsinternship-makex-autonomousrobots-ugcPost-7359528620685479938-HlVH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEDF1jMBO1Ndq53HUyGuJhyBpf-tR1Vachc
 
-This project is open-source under the **MIT License**.  
-Feel free to use and modify it for personal or educational purposes.
+
